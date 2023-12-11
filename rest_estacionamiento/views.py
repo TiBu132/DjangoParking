@@ -7,7 +7,7 @@ from core.models import Usuario
 from django.http import JsonResponse
 from rest_estacionamiento.serializers import UsuarioSerializer
 # Create your views here.
-#a
+#aa
 
 class UserView(APIView):
     def get(self, request):
